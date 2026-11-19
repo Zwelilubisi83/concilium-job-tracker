@@ -5,7 +5,7 @@ window.JOBS = {
       "sro": "SRO000005693",
       "item": "8485a",
       "status": "In calibration",
-      "note": "",
+      "note": "Your sensor is in calibration thanks",
       "hist": [
         [
           "Received",
