@@ -5,7 +5,7 @@ window.JOBS = {
       "sro": "SRO000005691",
       "item": "83650b",
       "status": "In calibration",
-      "note": "",
+      "note": "a",
       "hist": [
         [
           "Received",
