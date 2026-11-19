@@ -4,7 +4,7 @@ window.JOBS = {
     {
       "sro": "SRO000005693",
       "item": "8485a",
-      "status": "In calibration",
+      "status": "Certificate ready",
       "note": "Your sensor is in calibration thanks",
       "hist": [
         [
@@ -13,6 +13,10 @@ window.JOBS = {
         ],
         [
           "In calibration",
+          "2026-11-19"
+        ],
+        [
+          "Certificate ready",
           "2026-11-19"
         ]
       ],
