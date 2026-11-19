@@ -4,7 +4,7 @@ window.JOBS = {
     {
       "sro": "SRO000005691",
       "item": "83650b",
-      "status": "In calibration",
+      "status": "Quality check",
       "note": "already started",
       "hist": [
         [
@@ -13,6 +13,10 @@ window.JOBS = {
         ],
         [
           "In calibration",
+          "2026-11-19"
+        ],
+        [
+          "Quality check",
           "2026-11-19"
         ]
       ],
